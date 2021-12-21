@@ -1,3 +1,5 @@
+NOT MY FAULT they used CamelCase mixed with snake_case
+
 
 Source installation information for modders
 -------------------------------------------
